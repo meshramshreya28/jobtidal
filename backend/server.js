@@ -20,7 +20,7 @@ if (!MONGO_URI) {
 // ✅ CORS — allow your Netlify frontend
 app.use(cors({
   origin: [
-    "https://myjobtidal.netlify.app",
+    "https://jobtidalplatform.netlify.app",
     "http://localhost:3000",
     "http://127.0.0.1:5500"
   ],
