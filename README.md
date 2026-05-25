@@ -124,7 +124,7 @@ const API = 'https://jobtidal-backend.onrender.com';
 ## 👩‍💻 Developer
 
 **Shreya Meshram**
-- GitHub: [@meshramshreya28-code](https://github.com/meshramshreya28-code)
+- GitHub: [@meshramshreya28-code](https://github.com/meshramshreya28/jobtidal)
 - LinkedIn: [Shreya Meshram](https://www.linkedin.com/in/shreya-meshram)
 
 ---
