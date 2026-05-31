@@ -2,7 +2,7 @@
 
 A full-stack job portal web application where companies can post jobs, users can apply, and admins can manage everything from a dashboard.
 
-🔗 **Live Site:** [https://myjobtidalportal.netlify.app/](https://jobtidalplatform.netlify.app)
+🔗 **Live Site:** [https://myjobtidalportal.netlify.app/](https://myjobtidalportal.netlify.app/)
 
 ---
 
